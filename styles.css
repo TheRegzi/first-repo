@@ -1,0 +1,23 @@
+
+h1 {
+    border: 5px solid #FFDBB8;
+    padding: 20px; 
+    display: inline-block;
+    color: white;
+}
+
+h2 {
+    color: #9BE4FA;
+}
+
+body {
+    background-color: #AD845A;
+    color:white;
+    text-align: center;
+}
+
+p {
+    border: 5px solid #FFDBB8;
+    padding: 20px;
+    display: inline-block;
+}
